@@ -15,6 +15,7 @@ namespace Game
         {
             X = 0;
             Y = 0;
+
         }
     }
 }
