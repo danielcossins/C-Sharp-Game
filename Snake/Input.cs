@@ -16,7 +16,7 @@ namespace Snake
                 return false;
             }
 
-            return (bool)keyTable[key];
+            return (bool) keyTable[key];
         }
 
         //Detect if a keyboard button is pressed
